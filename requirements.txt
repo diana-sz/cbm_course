@@ -3,4 +3,3 @@ pandas
 matplotlib
 cobra
 escher
-concurrent
